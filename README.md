@@ -1,8 +1,7 @@
 # Polynomials
 Polynomial operations using Linked Lists
 
-A polynomial class created for CS112-Data Structures at Rutgers University (Spring 2015); a full assignment description can be found here:
-http://www.cs.rutgers.edu/courses/112/classes/spring_2015_venugopal/progs/prog1/prog1.html
+A polynomial class created for CS112-Data Structures at Rutgers University (Spring 2015).
 
 
 Polynomials, represented as linked lists, are added, multiplied, and evaluated. Individual nodes contain a coefficient and a degree.
